@@ -7,7 +7,7 @@ let priceHistory = {};
 let animationTimer = null;
 
 const stocks = {
-  ZEUS3: { name: "Zeus Holding ON", price: 84.72, open: 84.72, volatility: 0.85 },
+  ZEUS3: { name: "Zeus Holding ON", price: 84.72, open: 84.72, volatility: 1.85 },
   ATLN4: { name: "Atlas Energia PN", price: 31.46, open: 31.46, volatility: 0.55 },
   NEXA3: { name: "Nexa Tecnologia ON", price: 52.19, open: 52.19, volatility: 0.75 },
   BRAV4: { name: "Bravus Bank PN", price: 18.93, open: 18.93, volatility: 0.42 },
