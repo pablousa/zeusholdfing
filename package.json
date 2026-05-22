@@ -1,7 +1,7 @@
 {
   "name": "zeus-holding-live-market",
   "version": "1.0.0",
-  "description": "Interface ficticia de mercado ao vivo da Zeus Holding",
+  "description": "Interface de mercado ao vivo da Zeus Holding",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
